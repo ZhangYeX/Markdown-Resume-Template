@@ -18,7 +18,7 @@
 * 掌握Go，Python、编程语言
 * 掌握基础数据结构和算法的基本原理
 * 熟悉计算机网络
-* 了解数据库、操作系统等专业知识、有mysq、redis的使用经验
+* 了解数据库、操作系统等专业知识、有mysq、redis、redis的使用经验
 * 雅思6.5分
 
 
@@ -27,7 +27,7 @@
 1. 学校 - 打车软件后端开发 - 负责后端开发 - 202308- 202310
    项目描述:基于Kratos及consul实现了一个在线打车微服务项目,顾客可以通过客户端输入目的地进行打车服务。司机可以通过司机端的接口进行接单。
    使用到的技术:
-      jaegertracing、consul、kratos、mysql、redis、jwt.
+      jaegertracing、consul、kratos、mysql、redis、kafka.
     * demo演示地址，github地址 
 
 
