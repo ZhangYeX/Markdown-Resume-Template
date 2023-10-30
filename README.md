@@ -23,6 +23,7 @@
 * 了解使用go的网络编程
 * 熟悉使用go的并发编程
 * gin、gorm、kratos框架的使用
+* 掌握python数据分析工具numpy、pandas、matplotlib的使用
 
 ## 项目经历
 
