@@ -25,6 +25,7 @@
 * gin、gorm、kratos框架的使用
 * 掌握python数据分析工具numpy、pandas、matplotlib的使用
 
+
 ## 项目经历
 
 1. 打车软件 - 负责后端开发 - 202308- 202310
@@ -32,11 +33,20 @@
 
    使用到的技术:
       jaegertracing、consul、kratos、mysql、redis、kafka、gorm、grpc.
+   
 2. 志愿者管理系统 - 负责后端开发 - 202306-202308
    项目描述:基于Kratos及consul实现了一个志愿者管理系统微服务项目.志愿者登陆系统之后，可以针对感兴趣的任务，进行登记，参加志愿者服务。公司或机构可以发布志愿者需求任务。
    
    使用到的技术:
       jaegertracing、consul、kratos、mysql、redis、kafka、gorm、grpc.
+   
+3. 基于yolov8、CNN、RCNN实现目标检测任务 202208-202211
+   使用深度学习或机器学习完成对大保健的图片的珊瑚礁检测任务。
+   使用到的技术: yolov8,CNN、RCNN
+
+4. 0-800米目标大堡礁附近生物检测任务、及判断照片属于0-800米还是800-1200米。
+   使用到的技术: yolov8、Inception V3、VGG16、VGG19、Gaussian Mixture Model、One-Class SVM.
+
 
 
 ## 获奖经历
