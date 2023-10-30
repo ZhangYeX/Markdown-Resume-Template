@@ -26,11 +26,16 @@
 
 ## 项目经历
 
-1. 打车软件后端开发 - 负责后端开发 - 202308- 202310
-   项目描述:基于Kratos及consul实现了一个在线打车微服务项目,顾客可以通过客户端输入目的地进行打车服务。司机可以通过司机端的接口进行接单。
-   使用到的技术:
-      jaegertracing、consul、kratos、mysql、redis、kafka.
+1. 打车软件 - 负责后端开发 - 202308- 202310
+   项目描述:基于Kratos及consul实现了一个在线打车微服务项目,顾客登陆成功之后，顾客可以在客户端输入目的地，进行打车服务。司机可以通过司机端进行接单。
 
+   使用到的技术:
+      jaegertracing、consul、kratos、mysql、redis、kafka、gorm.
+2. 志愿者管理系统 - 负责后端开发 - 202306-202308
+   项目描述:基于Kratos及consul实现了一个志愿者管理系统微服务项目.志愿者登陆系统之后，可以针对感兴趣的任务，进行登记，参加志愿者服务。公司或机构可以发布志愿者需求任务。
+   
+   使用到的技术:
+      jaegertracing、consul、kratos、mysql、redis、kafka、gorm.
 
 
 ## 获奖经历
