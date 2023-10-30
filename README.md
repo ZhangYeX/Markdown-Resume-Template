@@ -6,7 +6,7 @@
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：26  
 * 手 机：15328703513 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;   邮 箱： yexi970318@gmail.com
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp;岗 位：软件开发
+* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp;岗 位：软件开发/后端开发
 
 ## 教育经历
 
@@ -20,7 +20,9 @@
 * 熟悉计算机网络
 * 了解数据库、操作系统等专业知识、有mysq、redis、kafka的使用经验
 * 雅思6.5分
-
+* 了解使用go的网络编程
+* 熟悉使用go的并发编程
+* gin、gorm、kratos框架的使用
 
 ## 项目经历
 
@@ -28,7 +30,7 @@
    项目描述:基于Kratos及consul实现了一个在线打车微服务项目,顾客可以通过客户端输入目的地进行打车服务。司机可以通过司机端的接口进行接单。
    使用到的技术:
       jaegertracing、consul、kratos、mysql、redis、kafka.
-    * demo演示地址，github地址 
+
 
 
 ## 获奖经历
